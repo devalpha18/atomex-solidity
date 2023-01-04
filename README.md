@@ -26,8 +26,3 @@ Last version of desktop client is available at [atomex.me](https://atomex.me)
 ### Publications
 * [Atomex: cross-chain atomic swaps on practice](https://medium.com/coinmonks/atomex-cross-chain-atomic-swaps-on-practice-8139571f0ee5)
 * [Atomic tips: interactive workshop](https://medium.com/coinmonks/atomic-tips-berlin-workshop-materials-c5c8ee3f46aa)
-
-### Contacts
-* Twitter [@atomex_official](https://twitter.com/atomex_official)
-* Telegram [@atomex_official](https://t.me/atomex_official)
-* Email [support@atomex.me](mailto:support@atomex.me)
